@@ -1,4 +1,4 @@
-# goit-markup-hw-03
+# goit-markup-hw-04
 
-Homework 3 HTML + CSS
-https://github.com/VovanS54689/goit-markup-hw-03
+Homework 4 HTML + CSS
+https://github.com/VovanS54689/goit-markup-hw-04
